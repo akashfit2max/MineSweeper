@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 .container {
     width: 500px;
     align-content: center;
+    font-family: 'Permanent Marker', cursive;
   }
   
   .grid {
@@ -68,7 +70,6 @@
     color: #e76346;
   }
   footer {
-      font-family:'Courier New', Courier, monospace;
     background-color: #222;
     color: #fff;
     font-size: 14px;
